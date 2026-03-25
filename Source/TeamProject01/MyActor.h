@@ -21,3 +21,5 @@ public:
 	virtual void Tick(float DeltaTime) override;
 
 };
+
+//충돌가보자고
