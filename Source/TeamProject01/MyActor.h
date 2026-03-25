@@ -22,4 +22,10 @@ public:
 
 };
 
+
 //충돌가보자고
+
+//rmsep ghsd
+//전 좀 다르게 생각합니다 Other님
+//ghrtl ahfmsmsrjslRk
+
