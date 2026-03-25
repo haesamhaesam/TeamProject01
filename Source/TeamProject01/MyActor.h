@@ -21,3 +21,6 @@ public:
 	virtual void Tick(float DeltaTime) override;
 
 };
+//rmsep ghsd
+//전 좀 다르게 생각합니다 Other님
+//ghrtl ahfmsmsrjslRk
